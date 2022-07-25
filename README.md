@@ -9,5 +9,5 @@ Training and testing are done in same file depending on the classification task.
 
 _python filename_. e.g:
 
-_python bert-sa_
+_python bert-sa.py_
 
